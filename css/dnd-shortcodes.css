@@ -296,14 +296,14 @@
 
 .dnd-tabs.dnd-tabs-position-top.dnd-tabs-boxed .ui-tabs-nav li:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 	border-top-right-radius: 5px;
 	border-top-left-radius: 5px;
 }
 
 .dnd-tabs.dnd-tabs-position-top.dnd-tabs-boxed .ui-tabs-nav li.ui-tabs-active:hover a{
 	background: transparent;
-	color: #ff7f00 !important;
+	color: #d40029 !important;
 }
 
 .dnd-tabs.dnd-tabs-position-top.dnd-tabs-unboxed .ui-tabs-nav li:first-child:hover a{
@@ -318,12 +318,12 @@
 
 .dnd-tabs.dnd-tabs-position-top.dnd-tabs-unboxed .ui-tabs-nav li.ui-tabs-active:hover a{
 	background: transparent;
-	color: #ff7f00 !important;
+	color: #d40029 !important;
 }
 
 .dnd-tabs.dnd-tabs-position-top.dnd-tabs-unboxed .ui-tabs-nav li:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 }
 
 .dnd-tabs .ui-tabs-nav li.ui-tabs-active{
@@ -347,7 +347,7 @@
 }
 
 .dnd-tabs .ui-tabs-nav li.ui-tabs-active a{
-	color: #ff7f00;
+	color: #d40029;
 	cursor: default;
 }
 
@@ -455,37 +455,37 @@
 
 .dnd-tabs.dnd-tabs-position-bottom.dnd-tabs-boxed .ui-tabs-nav li:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 	border-bottom-right-radius: 5px;
 	border-bottom-left-radius: 5px;
 }
 
 .dnd-tabs.dnd-tabs-position-bottom.dnd-tabs-boxed .ui-tabs-nav li.ui-tabs-active:hover a{
-	color: #ff7f00!important;
+	color: #d40029!important;
 	background: #fff;
 }
 
 .dnd-tabs.dnd-tabs-position-bottom.dnd-tabs-unboxed .ui-tabs-nav li:first-child:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
 }
 
 .dnd-tabs.dnd-tabs-position-bottom.dnd-tabs-unboxed .ui-tabs-nav li:last-child:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
 }
 
 .dnd-tabs.dnd-tabs-position-bottom.dnd-tabs-unboxed .ui-tabs-nav li:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 }
 
 .dnd-tabs.dnd-tabs-position-bottom.dnd-tabs-unboxed .ui-tabs-nav li.ui-tabs-active:hover a{
-	color: #ff7f00!important;
+	color: #d40029!important;
 	background: #fff;
 }
 
@@ -510,7 +510,7 @@
 }
 
 .dnd-tabs.dnd-tabs-position-bottom .ui-tabs-nav li.ui-tabs-active a{
-	color: #ff7f00;
+	color: #d40029;
 	cursor: default;
 }
 
@@ -611,13 +611,13 @@
 
 .dnd-tabs-position-left.dnd-tabs-boxed .ui-tabs-nav li:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
 }
 
 .dnd-tabs-position-left.dnd-tabs-boxed .ui-tabs-nav li.ui-tabs-active:hover a{
-	color: #ff7f00!important;
+	color: #d40029!important;
 	background: #fff;
 }
 
@@ -669,25 +669,25 @@
 
 .dnd-tabs-position-left.dnd-tabs-unboxed .ui-tabs-nav li:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 }
 
 .dnd-tabs-position-left.dnd-tabs-unboxed .ui-tabs-nav li:first-child:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 }
 
 .dnd-tabs-position-left.dnd-tabs-unboxed .ui-tabs-nav li:last-child:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
 }
 
 .dnd-tabs-position-left.dnd-tabs-unboxed .ui-tabs-nav li.ui-tabs-active:hover a{
-	color: #ff7f00!important;
+	color: #d40029!important;
 	background: #fff;
 }
 
@@ -751,13 +751,13 @@
 
 .dnd-tabs-position-right.dnd-tabs-boxed .ui-tabs-nav li:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
 }
 
 .dnd-tabs-position-right.dnd-tabs-boxed .ui-tabs-nav li.ui-tabs-active:hover a{
-	color: #ff7f00!important;
+	color: #d40029!important;
 	background: #fff;
 }
 
@@ -809,19 +809,19 @@
 
 .dnd-tabs-position-right.dnd-tabs-unboxed .ui-tabs-nav li:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 }
 
 .dnd-tabs-position-right.dnd-tabs-unboxed .ui-tabs-nav li:first-child:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 }
 
 .dnd-tabs-position-right.dnd-tabs-unboxed .ui-tabs-nav li:last-child:hover a{
 	color: #fff!important;
-	background: #ff7f00;
+	background: #d40029;
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
 }
@@ -927,7 +927,7 @@
 }
 
 .dnd-tabs.dnd-tabs-timeline ul li:hover a{
-	color: #ff7f00;
+	color: #d40029;
 }
 
 .dnd-tabs.dnd-tabs-timeline .ui-tabs-nav li.ui-tabs-active:before{
@@ -1043,12 +1043,12 @@
 }
 
 .ui-accordion-header.ui-state-hover{
-	background: #ff7f00;
+	background: #d40029;
 	color: #fff!important;
 }
 
 .dnd-accordion .ui-accordion-header-active { 
-	color:#ff7f00;
+	color:#d40029;
 	-webkit-box-shadow: none!important;
 	box-shadow: none!important;
 	border-bottom-left-radius: 0px;
@@ -1086,7 +1086,7 @@
 .dnd-accordion .ui-icon-triangle-1-e{
 	height: 1px;
 	width: 13px;
-	background: #ff7f00;
+	background: #d40029;
 }
 
 .dnd-accordion .ui-icon-triangle-1-e{
@@ -1135,7 +1135,7 @@
 	width: 20px;
 	height: 20px;
 	position: absolute;
-	border: 1px solid #ff7f00;
+	border: 1px solid #d40029;
 	border-radius: 50%;
 	right: 14px;
 	top: 10px;
@@ -1223,7 +1223,7 @@
 	width: 20px;
 	height: 20px;
 	position: absolute;
-	border: 1px solid #ff7f00;
+	border: 1px solid #d40029;
 	border-radius: 50%;
 	left: 14px;
 	top: 10px;
@@ -1410,7 +1410,7 @@
 .dnd_alert_info,
 .dnd_alert_info .dnd_alert_box_close{
 	background: #eff5fa;
-	color: #ff7f00;
+	color: #d40029;
 	border: 1px solid #cddeec;
 }
 
@@ -1463,7 +1463,7 @@
 .dnd_blockquote small{
 	font-size: 13px;
 	display: block;
-	color: #ff7f00;
+	color: #d40029;
 }
 
 .dnd_blockquote small small{
@@ -1475,7 +1475,7 @@
 /** Style 1 **/
 
 .dnd_blockquote_style1{
-	border-left: 6px solid #ff7f00;
+	border-left: 6px solid #d40029;
 	padding: 22px 15px 21px 30px;
 }
 
@@ -1520,7 +1520,7 @@
 
 .dnd_blockquote_style4{
 	padding: 22px 15px 21px 30px;
-	background: #ff7f00;
+	background: #d40029;
 	border-radius: 4px;
 }
 
@@ -2046,7 +2046,7 @@
 
 .dnd_team_member_link .dnd_team_member_name:hover,
 .dnd_team_member:hover .dnd_team_member_position{
-	color: #ff7f00;
+	color: #d40029;
 }
 
 .dnd_team_member_modal{
@@ -2178,7 +2178,7 @@
 }
 
 .dnd_posts_shortcode.dnd_posts_shortcode-1 .dnd_latest_news_shortcode_content h5 a:hover{
-	color: #ff7f00;
+	color: #d40029;
 }
 
 .dnd_posts_shortcode.dnd_posts_shortcode-1 .dnd_latest_news_shortcode_content p{
@@ -2240,7 +2240,7 @@
 }
 
 .dnd_posts_shortcode.dnd_posts_shortcode-2 .dnd_latest_news_shortcode_content h5 a:hover{
-	color: #ff7f00;
+	color: #d40029;
 }
 
 .dnd_posts_shortcode.dnd_posts_shortcode-2 .dnd_latest_news_shortcode_content p{
@@ -2412,7 +2412,7 @@
 }
 
 .dnd_pricing-table-1.dnd_pricing-table-blue .dnd_pricebox_info{
-	background: #ff7f00;
+	background: #d40029;
 	color: #fff;
 }
 
@@ -2608,7 +2608,7 @@
 }
 
 .dnd_pricing-table-2.dnd_pricing-table-blue .dnd_pricebox_info{
-	background: #ff7f00;
+	background: #d40029;
 	color: #fff;
 }
 
@@ -2766,7 +2766,7 @@
 }
 
 .dnd_pricing-table-3.dnd_pricing-table-blue .dnd_pricebox_header{
-	background: #ff7f00;
+	background: #d40029;
 	color: #fff;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
@@ -2923,7 +2923,7 @@
 }
 
 .dnd_pricing-table-4.dnd_pricing-table-blue .dnd_pricebox_info{
-	background: #ff7f00;
+	background: #d40029;
 	color: #fff;
 }
 
@@ -3075,7 +3075,7 @@
 }
 
 .dnd_pricing-table-5.dnd_pricing-table-blue .dnd_pricebox_header{
-	background: #ff7f00;
+	background: #d40029;
 	color: #fff;
 }
 
@@ -3209,7 +3209,7 @@
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
-	background-color: #ff7f00;
+	background-color: #d40029;
 }
 
 .dnd_progress_bar_default .dnd_meter .dnd_meter_percentage span{
@@ -3361,9 +3361,9 @@
 }
 
 .dnd_search input:focus{
-	-moz-box-shadow:    inset 0 0 2px #ff7f00;
-	-webkit-box-shadow: inset 0 0 2px #ff7f00;
-	box-shadow:         inset 0 0 2px #ff7f00;
+	-moz-box-shadow:    inset 0 0 2px #d40029;
+	-webkit-box-shadow: inset 0 0 2px #d40029;
+	box-shadow:         inset 0 0 2px #d40029;
 }
 
 .dnd_search .submit{
@@ -3384,7 +3384,7 @@
 }
 
 .dnd_search .submit i:hover{
-	color: #ff7f00;
+	color: #d40029;
 }
 
 /********** Shortcode: Service boxes *************************************************************/
@@ -3395,7 +3395,7 @@
 }
 
 .dnd_service_box:hover a.dnd_icon_boxed{
-	background: #ff7f00;
+	background: #d40029;
 	transition: all 180ms ease-in;
 	-webkit-transition: all 180ms ease-in;
 	background:#ffffff; border: 1px solid #e9eaec ;
@@ -3404,7 +3404,7 @@
 
 .dnd_service_box p a i{
 	margin-left: 10px;
-	color: #ff7f00 !important;
+	color: #d40029 !important;
 	font-size: 8px !important;
 	transition: all 180ms ease-in;
 	-webkit-transition: all 180ms ease-in;
@@ -3419,11 +3419,11 @@
 
 .dnd_service_box.dnd_service_box_round_text_aside:hover a.dnd_icon_boxed{
 	border: 1px solid #e9eaec;
-	background: #ff7f00 !important;
+	background: #d40029 !important;
 }
 
 .dnd_service_box.dnd_service_box_round_text_aside:hover a.dnd_icon_boxed i{
-	color: #ff7f00;
+	color: #d40029;
 	background:transparent;
 	color: #fff!important;
 }
@@ -3443,7 +3443,7 @@
 }
 
 .dnd_service_box_round_text_aside a:hover h3 {
-	color: #ff7f00;
+	color: #d40029;
 	transition: all 180ms ease-in;
 	-webkit-transition: all 180ms ease-in;
 }
@@ -3491,13 +3491,13 @@
 }
 
 .dnd_service_box_round_text_aside_middle a:hover h3{
-	color: #ff7f00;
+	color: #d40029;
 	-webkit-transition:all 180ms ease-in-out;
 	transition:all 180ms ease-in-out;
 }
 
 .dnd_service_box_round_text_aside_middle:hover a.dnd_icon_boxed{
-	background: #ff7f00 !important;
+	background: #d40029 !important;
 }
 
 .dnd_service_box_round_text_aside_middle:hover a.dnd_icon_boxed i{
@@ -3551,7 +3551,7 @@
 }
 
 .dnd_service_box_boxed a:hover h3{
-	color: #ff7f00;
+	color: #d40029;
 	transition: all 300ms ease-in-out;
 	-webkit-transition: all 300ms ease-in-out;
 }
@@ -3572,7 +3572,7 @@
 }
 
 .dnd_service_box_boxed:hover a.dnd_icon_boxed{
-	background: #ff7f00!important;
+	background: #d40029!important;
 	transition: all 300ms ease-in-out;
 	-webkit-transition: all 300ms ease-in-out;
 }
@@ -3582,7 +3582,7 @@
 	line-height: 86px;
 	transition: all 180ms ease-in;
 	-webkit-transition: all 180ms ease-in;
-	color: #ff7f00;background:transparent;
+	color: #d40029;background:transparent;
 }
 
 .dnd_service_box_boxed:hover a.dnd_icon_boxed i{
@@ -3612,7 +3612,7 @@
 }
 
 .dnd_service_box_unboxed_round a:hover h3{
-	color: #ff7f00;
+	color: #d40029;
 	transition: all 300ms ease-in-out;
 	-webkit-transition: all 300ms ease-in-out;
 }
@@ -3628,7 +3628,7 @@
 }
 
 .dnd_service_box_unboxed_round:hover a.dnd_icon_boxed{
-	background: #ff7f00!important;
+	background: #d40029!important;
 }
 
 .dnd_service_box_unboxed_round:hover a.dnd_icon_boxed i{
@@ -3656,7 +3656,7 @@
 }
 
 .dnd_service_box_unboxed_square a:hover h3{
-	color: #ff7f00;
+	color: #d40029;
 	transition: all 300ms ease-in-out;
 	-webkit-transition: all 300ms ease-in-out;
 }
@@ -3669,13 +3669,13 @@
 	display: block;
 	transition: all 300ms ease-in-out;
 	-webkit-transition: all 300ms ease-in-out;
-	border: 2px solid #ff7f00;
+	border: 2px solid #d40029;
 }
 
 .dnd_service_box_unboxed_square .dnd_icon_boxed i{
 	font-size: 30px;
 	line-height: 69px;
-	color: #ff7f00;
+	color: #d40029;
 	background: transparent
 }
 
@@ -3738,7 +3738,7 @@
 	top: 76px;
 	width: 100%;
 	left: 0;
-    background: #ff7f00;
+    background: #d40029;
     z-index: -1;
 }
 
@@ -3750,7 +3750,7 @@
 	width: 50%;
 	left: auto;
 	right: 0;
-    background: #ff7f00;
+    background: #d40029;
     z-index: -1;
 }
 
@@ -3935,7 +3935,7 @@
 	font-size: 24px;
 	text-align: center;
 	line-height: 32px;
-	background: #ff7f00;
+	background: #d40029;
 	border-radius: 5px;
 	color: #fff;
 	margin-top: 7px;
@@ -4184,7 +4184,7 @@
 
 	.dnd-callout_box_style_5 .dnd-icon-button i:hover{
 		font-size: 22px;
-		color: #ff7f00;
+		color: #d40029;
 	}
 
 
@@ -4212,7 +4212,7 @@
 .dnd-button_light{
     background: #f5f6f8; 
 	border: 1px solid #eaecef;
-	color: #ff7f00;
+	color: #d40029;
 }
 
 .dnd-button_dark{
@@ -4258,8 +4258,8 @@
 }
 
 .dnd-button_blue{
-	background: #ff7f00;
-	border: 1px solid #ff7f00;
+	background: #d40029;
+	border: 1px solid #d40029;
 	color: #fff !important;
 }
 
@@ -4290,7 +4290,7 @@
 }
 
 .dnd-button_dark:hover{
-	background: #ff7f00;
+	background: #d40029;
 	color: #fff !important;
 }
 
@@ -4410,7 +4410,7 @@
 	font-size: 42px;
 	line-height: 100px;
 	color: #fff;
-	background: #ff7f00;
+	background: #d40029;
 	width: 141px;
 	height: 100px;
 	border-radius: 5px;
@@ -4634,7 +4634,7 @@
 	}
 
 	.carousel_navigation a:hover{
-		color: #ff7f00;
+		color: #d40029;
 	}
 
 	.carousel_navigation a i{

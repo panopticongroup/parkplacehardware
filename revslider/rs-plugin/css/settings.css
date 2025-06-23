@@ -1436,7 +1436,7 @@ zoom: 1;
 	letter-spacing:0.5px;
 	text-align:center;
 	vertical-align:middle;
-	background-color:rgb(255, 127, 0);
+	background-color:#d40029;
 	border-radius:45px 45px 45px 45px;
 	border-width:0px;
 	border-color:rgb(255,255,255);
@@ -1486,7 +1486,7 @@ zoom: 1;
 	background-color:rgba(255,255,255,1);
 	border-radius:45px 45px 45px 45px;
 	border-width:0px;
-	border-color:rgb(255, 127, 0);
+	border-color:#d40029;
 	border-style:none
 }
 .tp-caption.Lato_Big_White {
@@ -1558,7 +1558,7 @@ zoom: 1;
 	letter-spacing:0.5px;
 	text-align:center;
 	vertical-align:middle;
-	background-color:rgb(255, 127, 0);
+	background-color:#d40029;
 	border-radius:45px 45px 45px 45px;
 	border-width:0px;
 	border-color:rgb(255,255,255);
@@ -1608,7 +1608,7 @@ zoom: 1;
 	background-color:rgba(255,255,255,1);
 	border-radius:45px 45px 45px 45px;
 	border-width:0px;
-	border-color: rgb(255, 127, 0);
+	border-color: #d40029;
 	border-style:none
 }
 .Lato_Big_White {
